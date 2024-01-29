@@ -8,10 +8,8 @@ The Automatic No-touch Trashcan project aims to create a hands-free trash dispos
 - **Motorized Lid:** Equipped with a Servo Motor to facilitate the automated opening and closing of the trashcan lid.
 
 ## Demonstration Video
-[![Watch the video](https://github.com/ManarEyad7/Automatic-No-touch-Trash-Can-CCAI_321/assets/108298667/7ad70b43-7ce6-409a-90f9-8bcf5f73f1f0)
+https://github.com/ManarEyad7/Automatic-No-touch-Trash-Can-CCAI_321/assets/108298667/7ad70b43-7ce6-409a-90f9-8bcf5f73f1f0
 
-**Note:** Click the link above to watch the project in action.
-](https://github.com/ManarEyad7/Automatic-No-touch-Trash-Can-CCAI_321/assets/108298667/7ad70b43-7ce6-409a-90f9-8bcf5f73f1f0)
 ## Setup
 ### Components
 1. Arduino UNO
